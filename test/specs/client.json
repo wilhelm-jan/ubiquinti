@@ -1,0 +1,37 @@
+[{ 
+    "firstname": "Leanne",
+    "lastname": "Bret",
+    "email": "Sincere@april.biz",
+    "note":"Phasellus enim",
+    "phone":"555-555-5555",
+    "address": {
+      "street": "Kulas Light",
+      "city": "Gwenborough",
+      "zipcode": "92998-3874"
+    }  
+  },
+  {
+    "firstname": "Ervin",
+    "lastname": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "note":"Etiam dui",
+    "phone":"666-666-6666",
+    "address": {
+      "street": "Victor Plains",
+      "city": "Wisokyburgh",
+      "zipcode": "90566-7771"
+    }
+  },
+  {
+    "firstname": "Clementine",
+    "lastname": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "note":"Class aptent",
+    "phone":"444-444-4444",
+    "address": {
+      "street": "Douglas Extension",
+      "city": "McKenziehaven",
+      "zipcode": "59590-4157"
+    }
+  }
+]
